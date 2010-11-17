@@ -1,6 +1,6 @@
 {
 	"extDescription": {
-		"message": "Chromed Birdはタイムラインをフォローしたり、Twitterアカウントと直接やり取りしたりできる拡張機能です。",
+		"message": "Chromed Birdはタイムラインを追ったり、Twitterアカウントと直接やり取りしたりできる拡張機能です。",
 		"description": "Extension description"
 	},
 	"resetSize": {
@@ -150,7 +150,7 @@
 		"message": "ツイート"
 	},
 	"newTweetsAvailable": {
-		"message": "新しい $tweets$ が $count$ 件あります。",
+		"message": "新しい$tweets$が$count$件あります。",
 		"placeholders": {
 			"count": {
 				"content": "$1"
@@ -194,7 +194,7 @@
 		"message": "少々お待ちください。Chromed Birdを認証中です..."
 	},
 	"yourPIN": {
-		"message": "あなたの PIN コードは $pin$ です",
+		"message": "あなたのPINコードは $pin$ です",
 		"placeholders": {
 			"pin":{
 				"content": "$1"
