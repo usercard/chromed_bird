@@ -1,0 +1,671 @@
+{
+	"extDescription": {
+		"message": "Chromed Birdはタイムラインをフォローしたり、Twitterアカウントと直接やり取りしたりできる拡張機能です。",
+		"description": "Extension description"
+	},
+	"resetSize": {
+		"message": "サイズを変更するにはダブルクリックしてください"
+	},
+	"composeTweet": {
+		"message": "ツイートを書く",
+		"description": "Text for composing new tweet"
+	},
+	"tweetit": {
+		"message": "ツイート！"
+	},
+	"logout": {
+		"message": "ログアウト",
+		"description": "The text for the logout link"
+	},
+	"options": {
+		"message": "オプション",
+		"description": "Options link"
+	},
+	"refresh": {
+		"message": "更新",
+		"description": "Refresh link"
+	},
+	"suspend": {
+		"message": "一時停止",
+		"description": "Suspend link"
+	},
+	"autoUpdatesSuspended": {
+		"message": "自動更新一時停止中"
+	},
+	"resume": {
+		"message": "再開"
+	},
+	"remove": {
+		"message": "削除"
+	},
+	"hide": {
+		"message": "非表示"
+	},
+	"show": {
+		"message": "表示"
+	},
+	"add": {
+		"message": "追加"
+	},
+	"selectList": {
+		"message": "- リストを選択 -"
+	},
+	"updateList": {
+		"message": "リストを更新..."
+	},
+	"w_Unified": {
+		"message": "統合TL"
+	},
+	"w_Home": {
+		"message": "ホーム"
+	},
+	"w_DM": {
+		"message": "DM"
+	},
+	"w_SentDM": {
+		"message": "DM を送信"
+	},
+	"w_ReceivedDM": {
+	  "message": "DM を受信"
+	},
+	"w_Favorites": {
+		"message": "お気に入り"
+	},
+	"w_Lists": {
+		"message": "リスト"
+	},
+	"w_Search": {
+		"message": "検索"
+	},
+	"fromApp": {
+		"message": "from"
+	},
+	"inReply": {
+		"message": "in reply to"
+	},
+	"sentTo": {
+		"message": "sent to"
+	},
+	"retweetedBy": {
+		"message": "リツイート by"
+	},
+	"retweetedByMe": {
+		"message": "あなたのリツイート"
+	},
+	"unmarkFavorite": {
+		"message": "お気に入りから外す"
+	},
+	"markFavorite": {
+		"message": "お気に入り"
+	},
+	"Delete": {
+		"message": "削除"
+	},
+	"deleteConfirm": {
+		"message": "このメッセージを削除する: "
+	},
+	"Yes": {
+		"message": "はい"
+	},
+	"No": {
+		"message": "いいえ"
+	},
+	"Reply": {
+		"message": "リプライ"
+	},
+	"Retweet": {
+		"message": "リツイート"
+	},
+	"retweetConfirm": {
+		"message": "このメッセージをリツイートする: "
+	},
+	"oldRT": {
+		"message": "非公式RT"
+	},
+	"markAllRead": {
+		"message": "全て既読にする"
+	},
+	"newToken": {
+		"message": "別のトークンをリクエストする"
+	},
+	"shortenerIdleString": {
+		"message": "短縮するURLを入力するか、ここをクリックしてください\u2192"
+	},
+	"timelineHome": {
+		"message": "ホーム",
+		"description": "The home time line tab"
+	},
+	"timelineDM": {
+		"message": "DM",
+		"description": "The direct message time line tab"
+	},
+	"timelineFavorites": {
+		"message": "お気に入り",
+		"description": "The home time line tab"
+	},
+	"tweet_singular": {
+		"message": "ツイート"
+	},
+	"tweet_plural": {
+		"message": "ツイート"
+	},
+	"newTweetsAvailable": {
+		"message": "新しい $tweets$ が $count$ 件あります。",
+		"placeholders": {
+			"count": {
+				"content": "$1"
+			},
+			"tweets": {
+				"content": "$2"
+			}
+		}
+	},
+	"preventClosing": {
+		"message": "閉じないようにクリックする"
+	},
+	"changeNotificationSettings": {
+		"message": "オプションページで通知の設定を変更できます"
+	},
+	"loadingMap": {
+		"message": "マップのロード中..."
+	},
+	"loadingImage": {
+		"message": "画像のロード中..."
+	},
+	"loadingLongUrl": {
+		"message": "元のURLをロード中..."
+	},
+	"errorExpandingUrl": {
+		"message": "ごめんなさい。何か変です。もう一度試してみてください。"
+	},
+	"ajaxFailed": {
+		"message": "AJAXリクエストに失敗しました (接続状況が悪いのかもしれません)"
+	},
+	"successAuth": {
+		"message": "おめでとうございます、認証に成功しました。Chromed Birdを楽しんでください！"
+	},
+	"cbAuthorized": {
+		"message": "Chromed Birdが認証されました！"
+	},
+	"cbNotAuthorized": {
+		"message": "あれ... 何か変です。Chromed Birdのアイコンをもう一度クリックしてみて下さい。"
+	},
+	"authorizing": {
+		"message": "少々お待ちください。Chromed Birdを認証中です..."
+	},
+	"yourPIN": {
+		"message": "あなたの PIN コードは $pin$ です",
+		"placeholders": {
+			"pin":{
+				"content": "$1"
+			}
+		}
+	},
+	"tryAgain": {
+		"message": "もう一度試してみてください"
+	},
+	"canceling": {
+		"message": "キャンセルしています..."
+	},
+	"cancelTweet": {
+		"message": "ツイートをキャンセル"
+	},
+	"queued_messages": {
+		"message": "キューイングされたメッセージ:"
+	},
+	"queue_trying": {
+		"message": "$timediff$間送信を試しています",
+		"placeholders": {
+			"timediff": {
+				"content": "$1"
+			}
+		}
+	},
+	"queue_retried": {
+		"message": "$timediff$前から$retries$回リトライしました [$laststatus$]",
+		"placeholders": {
+			"retries": {
+				"content": "$1"
+			},
+			"timediff": {
+				"content": "$2"
+			},
+			"laststatus": {
+				"content": "$3"
+			}
+		}
+	},
+	"ue_fetchingLists": {
+		"message": "リストの取得中に想定外のエラー $status$ が発生しました。",
+		"placeholders": {
+			"status": {
+				"content": "$1"
+			}
+		}
+	},
+	"ue_updatingTweets": {
+		"message": "ツイートの更新中に想定外のエラー $baseError$ が発生しました。",
+		"placeholders": {
+			"baseError": {
+				"content": "$1"
+			}
+		}
+	},
+	"ue_updatingTweets2": {
+		"message": "もしこのタイムアウトエラーが頻繁に表示されるようであれば、一旦ログアウトしてもう一度ログインしてください。"
+	},
+	"ue_deletingTweet": {
+		"message": "ツイートの削除中に予想外のエラー $status$ が発生しました。",
+		"placeholders": {
+			"status": {
+				"content": "$1"
+			}
+		}
+	},
+	"ue_retweeting": {
+		"message": "リツイート中に予想外のエラー $status$ が発生しました。",
+		"placeholders": {
+			"status": {
+				"content": "$1"
+			}
+		}
+	},
+	"ue_markFavorite": {
+		"message": "お気に入りの登録中に予想外のエラー $status$ が発生しました。",
+		"placeholders": {
+			"status": {
+				"content": "$1"
+			}
+		}
+	},
+	"ue_unmarkFavorite": {
+		"message": "お気に入りの解除中に予想外のエラー $status$ が発生しました。",
+		"placeholders": {
+			"status": {
+				"content": "$1"
+			}
+		}
+	},
+	"newTweets": {
+		"message": "$count$ $newtweets$",
+		"placeholders": {
+			"count": {
+				"content": "$1"
+			},
+			"newtweets": {
+				"content": "$2"
+			}
+		}
+	},
+	"newtweets_singular": {
+		"message": "新しいツイート"
+	},
+	"newtweets_plural": {
+		"message": "新しいツイート"
+	},
+	"btnAuthorize": {
+		"message": "認証！"
+	},
+	"exceededAPIHits": {
+		"message": "API呼び出し回数の上限に達しました。<a href='javascript:chrome.tabs.create({url:\"$options_url$\"})'>オプションページ</a>の更新間隔の設定を再確認して下さい。Chromed Bird は $nextResetDate $nextResetTime$ まで更新できません。",
+		"placeholders": {
+			"options_url": {
+				"content": "$1"
+			},
+			"nextResetDate": {
+				"content": "$2"
+			},
+			"nextResetTime": {
+				"content": "$3"
+			}
+		}
+	},
+	"warningAPIHits": {
+		"message": "API呼び出し回数がなくなるのが早すぎます！<br><a href='javascript:chrome.tabs.create({url:\"$options_url$\"})'>オプションページ</a>の更新間隔を再確認して下さい。複数のTwitterクライアントを起動している場合は、呼び出し回数が共通なので特に気をつけて下さい。<br>API呼び出し回数の残り: $remainingHits$ - 次回のリセット時刻: $nextResetDate$ $nextResetTime$",
+		"placeholders": {
+			"options_url": {
+				"content": "$1"
+			},
+			"remainingHits": {
+				"content": "$2"
+			},
+			"nextResetDate": {
+				"content": "$3"
+			},
+			"nextResetTime": {
+				"content": "$4"
+			}
+		}
+	},
+	"oAuthError": {
+		"message": "認証中に下記のエラーが発生しました: $errorMessage$. <a href=\"javascript:OAuth.requestNewToken();\">ここをクリックして、もういちど認証してください</a>",
+		"placeholders": {
+			"errorMessage": {
+				"content": "$1"
+			}
+		}
+	},
+	"justNow": {
+		"message": "たった今"
+	},
+	"minuteAgo": {
+		"message": "1分以内"
+	},
+	"minutes": {
+		"message": "$nr_of_minutes$$minutes$前",
+		"placeholders": {
+			"nr_of_minutes":{
+				"content": "$1"
+			},
+			"minutes": {
+				"content": "$2",
+				"example": "minute or minutes (singular / plural)"
+			}
+		}
+	},
+	"minute_singular": {
+		"message": "分"
+	},
+	"minute_plural": {
+		"message": "分"
+	},
+	"timeAgo": {
+		"message": "約$time$$time_string$前",
+		"placeholders": {
+			"time": {
+				"content": "$1"
+			},
+			"time_string": {
+				"content": "$2"
+			}
+		}
+	},
+	"hour_singular": {
+		"message": "時間"
+	},
+	"hour_plural": {
+		"message": "時間"
+	},
+	"day_singular": {
+		"message": "日"
+	},
+	"day_plural": {
+		"message": "日"
+	},
+	"month_singular": {
+		"message": "年"
+	},
+	"month_plural": {
+		"message": "月"
+	},
+	"yearsAgo": {
+		"message": "年前"
+	},
+	"options_title": {
+		"message": "Chromed Bird オプション"
+	},
+	"conf_saved": {
+		"message": "設定は無事に保存されました！"
+	},
+	"changes_restart": {
+		"message": "しかし、再起動が必要な変更があります。すぐに実行しますか？<br>    (未読のツイート数はリセットされます。)"
+	},
+	"remaining_api_hits": {
+		"message": "Twitter API呼び出し回数の残り: "
+	},
+	"rate_limit_reset": {
+		"message": "呼び出し回数がリセットされる時刻: "
+	},
+	"nerds_link": {
+		"message": "API呼び出しの統計 (オタク向け)"
+	},
+	"g_ui": {
+		"message": "UI"
+	},
+	"l_name_attribute": {
+		"message": "名前の表示方法:"
+	},
+	"o_screen_name": {
+		"message": "スクリーンネーム (ニックネーム)"
+	},
+	"o_name": {
+		"message": "実名"
+	},
+	"o_both": {
+		"message": "どちらも"
+	},
+	"l_compose_position": {
+		"message": "入力エリアの位置:"
+	},
+	"o_top": {
+		"message": "上"
+	},
+	"o_bottom": {
+		"message": "下"
+	},
+	"l_theme": {
+		"message": "UI テーマ:"
+	},
+	"l_font_size": {
+		"message": "フォントサイズ:"
+	},
+	"o_small": {
+		"message": "小"
+	},
+	"o_normal": {
+		"message": "普通"
+	},
+	"o_large": {
+		"message": "大"
+	},
+	"o_extra_large": {
+		"message": "特大"
+	},
+	"l_font_family": {
+		"message": "フォント:"
+	},
+	"l_hover_timeout": {
+		"message": "ホバーして既読にする時間 (ミリ秒):"
+	},
+	"l_show_expanded_urls": {
+		"message": "短縮URLを戻す:"
+	},
+	"l_reply_all": {
+		"message": "すべての@関連に返信:"
+	},
+	"l_show_hits_in_popup": {
+		"message": "APIの呼び出し回数を表示:"
+	},
+	"l_show_user_autocomplete": {
+		"message": "ユーザー名のオートコンプリート:"
+	},
+	"l_icon_color": {
+		"message": "アイコンの色:"
+	},
+	"l_tweets_color_only_unified": {
+		"message": "統合TLでのみ有効な色の設定:"
+	},
+	"l_tweet_color": {
+		"message": "ツイートの色:"
+	},
+	"w_Mentions": {
+		"message": "@関連"
+	},
+	"btn_reset_popup_size": {
+		"message": "ポップアップのサイズをリセット"
+	},
+	"g_notifications": {
+		"message": "通知"
+	},
+	"l_tweet_notification": {
+		"message": "ツイートの通知"
+	},
+	"l_change_icon": {
+		"message": "アイコンを変更"
+	},
+	"l_icon_color_column": {
+		"message": "アイコンの色"
+	},
+	"notif_home": {
+		"message": "ホーム:"
+	},
+	"notif_mentions": {
+		"message": "関連:"
+	},
+	"notif_dms": {
+		"message": "DM:"
+	},
+	"notif_lists": {
+		"message": "リスト:"
+	},
+	"notif_search": {
+		"message": "検索:"
+	},
+	"l_tweets_notification_style": {
+		"message": "通知スタイル:"
+	},
+	"l_noti_on_page": {
+		"message": "ページ上で通知"
+	},
+	"l_noti_desktop": {
+		"message": "デスクトップに通知"
+	},
+	"l_notification_fade_timeout": {
+		"message": "通知のタイムアウト (秒):"
+	},
+	"l_notification_max_popups": {
+		"message": "同時通知数 (-1: 全て):"
+	},
+	"g_shortener": {
+		"message": "URL短縮サービス"
+	},
+	"l_url_shortener": {
+		"message": "URL短縮サービス:"
+	},
+	"l_shortener_acct": {
+		"message": "自分のアカウントを使いますか？"
+	},
+	"l_shortener_login": {
+		"message": "APIログイン:"
+	},
+	"l_shortener_key": {
+		"message": "APIキー:"
+	},
+	"l_share_include_title": {
+		"message": "ページタイトルつきでシェア"
+	},
+	"g_timelines": {
+		"message": "タイムライン"
+	},
+	"notice_api_hits": {
+		"message": "API呼び出し回数は<span style=\"color: red;\"><span class=\"__hourly_limit\"></span>以下</span>にしなければいけません！ そうしないとChromed Birdはちゃんと動かなくなり、タイムラインは更新されなくなります。<br>複数のTwitterクライアントを使っている場合はAPI呼び出し回数をさらに低くする必要があることを<span style=\"color: red;\">覚えておいてください</span>。"
+	},
+	"l_hits_notice": {
+		"message": "1時間でAPIを呼び出す回数: "
+	},
+	"l_visible": {
+		"message": "表示"
+	},
+	"l_refresh_interval": {
+		"message": "更新間隔 (秒)"
+	},
+	"l_include_in_unified": {
+		"message": "統合TLに含める"
+	},
+	"l_tabs_count": {
+		"message": "タブ数"
+	},
+	"l_unified_timeline": {
+		"message": "統合タイムライン:"
+	},
+	"tml_favorites": {
+		"message": "お気に入り:"
+	},
+	"l_blocked_users": {
+		"message": "ブロックしたユーザ:"
+	},
+	"notice_right_click_change": {
+		"message": "* ポップアップウインドウの右クリックメニューからほとんどの設定を直接変更できるので、ここじゃなくても大丈夫ですよ！ :)"
+	},
+	"l_tweets_per_page": {
+		"message": "ペードごとのツイート数:"
+	},
+	"l_max_cached_tweets": {
+		"message": "最大表示ツイート数:"
+	},
+	"g_microblogging_service": {
+		"message": "マイクロブロギングサービス"
+	},
+	"g_advanced": {
+		"message": "詳細"
+	},
+	"l_request_timeout": {
+		"message": "リクエストタイムアウト (ミリ秒):"
+	},
+	"l_base_url": {
+		"message": "Twitter APIのURL:"
+	},
+	"l_base_oauth_url": {
+		"message": "OAuthのURL:"
+	},
+	"l_same_signing_urls": {
+		"message": "Same signing URLs:"
+	},
+	"l_base_signing_url": {
+		"message": "APIでサインするURL:"
+	},
+	"l_base_oauth_signing_url": {
+		"message": "OAuthでサインするURL:"
+	},
+	"l_base_search_url": {
+		"message": "検索APIのURL:"
+	},
+	"btn_save": {
+		"message": "保存"
+	},
+	"btn_reset": {
+		"message": "リセット"
+	},
+	"btn_default": {
+		"message": "デフォルトに戻す"
+	},
+	"shortenIt": {
+		"message": "短く！"
+	},
+	"shorten_current": {
+		"message": "このページをシェア"
+	},
+	"tweet_send_error": {
+		"message": "ツイートを送信する間にエラーが発生しました。ツイッターがちゃんと動いてないかもしれません。もう一度試してみてください。ただし、メッセージが重複して投げられないようアカウントをチェックしてからにしてください。"
+	},
+	"detach_window": {
+	  "message": "ウインドウを切り離す"
+	},
+	"follow_action": {
+	  "message": "フォロー"
+	},
+	"unfollow_action": {
+	  "message": "アンフォロー"
+	},
+	"tweets_action": {
+	  "message": "ツイート"
+	},
+	"profile_action": {
+	  "message": "プロフィール"
+	},
+	"add_mention_action": {
+	  "message": "@関連"
+	},
+	"g_image_service": {
+	  "message": "画像サービス"
+	},
+	"l_image_up_service": {
+	  "message": "画像アップロードサービス:"
+	},
+	"l_default_locale": {
+	  "message": "デフォルトのロケール:"
+	},
+	"automatic": {
+	  "message": "ブラウザと同じ"
+	}
+}
